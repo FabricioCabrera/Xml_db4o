@@ -1,0 +1,17 @@
+<instituto>
+<docente id="1">
+<nombre>Mario Palma</nombre>
+<username>mario</username>
+<password>321423</password>
+</docente>
+<docente id="2">
+<nombre>Soviet </nombre>
+<username>Cabrera</username>
+<password>433543</password>
+</docente>
+<docente id="3">
+<nombre>Ignacio </nombre>
+<username>Jumbo</username>
+<password>121</password>
+</docente>
+</instituto>
